@@ -1,8 +1,4 @@
-.class {
+.button {
   color: red;
-  padding: 80px;
-}
-
-.type {
-  color: red;
+  padding: 50px;
 }
